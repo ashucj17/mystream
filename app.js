@@ -1,0 +1,1 @@
+alert("DISCLAIMER: THIS PAGE WAS CREATED AS A PERSONAL LEARNING PROJECT.<br> The business or brand mentioned on the page is not officially represented on this website. This page's author has no affiliation whatsoever with the business or brand. This page was created as a side project for an educational activity.")
